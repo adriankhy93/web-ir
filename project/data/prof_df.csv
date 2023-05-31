@@ -1,0 +1,42 @@
+prof_id,prof_name,prof_title,prof_email,prof_area_of_interest,prof_link
+0,Carlo V. Cannistraci,Professor,kailong@mail.tsinghua.edu.cn,"Information theory, Machine intelligence, Network science, Socio-economic systems, Complex big data in neuro and life sciences.",https://brain.tsinghua.edu.cn/en/info/1010/1003.htm
+1,Kang Chen,Professor,kang.chen.tsinghua@gmail.com,"Storage Systems, Distributed Systems",http://madsys.cs.tsinghua.edu.cn/~kangchen/
+2,Jianfei Chen,Assistant Professor,jianfeic@tsinghua.edu.cn,Deep Learning,https://ml.cs.tsinghua.edu.cn/~jianfei/
+3,Ting Chen,Professor,tingchen@tsinghua.edu.cn,"Machine Learning, Computational Biology, Medical Informatics and Precision Medicine, Algorithm Design",http://www.cssb.tsinghua.edu.cn/en/participants/item/150-2015-10-26-15-41-33
+4,Wenguang Chen,Professor,cwg@tsinghua.edu.cn,"Parallel Computing, Compiler, Mobile Computing",http://pacman.cs.tsinghua.edu.cn/~cwg/
+5,Yu Chen,Associate Professor,yuchen@tsinghua.edu.cn,"Operating Systems for Data Center, Compiling for Deep Learning, System Optimization for AI",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101223231225900540687/20101223231225900540687_.html
+6,Zhidong Deng,Professor,michael@tsinghua.edu.cn,"Artificial intelligence, Self-driving Car, Computational Intelligence & Robotics",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224173318337163808/20101224173318337163808_.html
+7,Yuxiao Dong,Assistant Professor,yuxiaod@tsinghua.edu.cn,"Data Mining, Graph Machine Learning, Pre-Training Models, Social Networks",https://keg.cs.tsinghua.edu.cn/yuxiao/
+8,Ling Feng,Professor,fengling@tsinghua.edu.cn,"Context-Aware Data Management towards Ambient Intelligence, Data Mining and Warehousing, Distributed Object-Oriented Database Management Systems",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224173832153159683/20101224173832153159683_.html
+9,Xiaolin Hu,Associate Professor,xlhu@tsinghua.edu.cn,"Computer Vision, computational neuroscience, deep learning",http://www.xlhu.cn/
+10,Minlie Huang,Associate Professor,aihuang@tsinghua.edu.cn,"Machine learning applications, deep learning, natural language processing",http://coai.cs.tsinghua.edu.cn/hml
+11,Zhengfeng Ji,Professor,jizhengfeng@tsinghua.edu.cn,"Quantum computing, Theory of computation",https://www.cs.tsinghua.edu.cn/info/1121/4990.htm
+12,Dan Li,Professor,tolidan@tsinghua.edu.cn,"Internet Architecture, P2P Networks, Cloud Computing Networks, Green Networking, Internet of Things",https://nasp.cs.tsinghua.edu.cn/lidan.html
+13,Guoliang Li,Professor,liguoliang@tsinghua.edu.cn,"AI+DB, use AI techniques to optimize database and use DB techniques to make AI scalable; hybrid crowd machine computing; big data cleaning, integration and visualization",https://dbgroup.cs.tsinghua.edu.cn/ligl/
+14,Juanzi Li,Professor,lijuanzi@tsinghua.edu.cn,"Knowledge Graphs, Text Mining, Semantic Web",http://keg.cs.tsinghua.edu.cn/persons/ljz/
+15,Yang Liu,Professor,liuyang2011@tsinghua.edu.cn,"natural language processing, Machine Translation",http://nlp.csai.tsinghua.edu.cn/~ly/
+16,Yongjin Liu,Professor,liuyongjin@tsinghua.edu.cn,"Computer Graphics, Computer-Aided Design, Multi-Disciplinary Research on Visual Media",https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm
+17,Zhiyuan Liu,Associate Professor,liuzy@tsinghua.edu.cn,"Social Computation, Knowledge Graphs, natural language processing",http://nlp.csai.tsinghua.edu.cn/~lzy/
+18,Youyou Lu,Associate Professor,luyouyou@tsinghua.edu.cn,"Distributed Systems, Storage System, Computer Architecture",http://storage.cs.tsinghua.edu.cn/~lu/
+19,Weiying Ma,Professor,maweiying@air.tsinghua.edu.cn,"Artificial intelligence (machine learning, natural language processing, search and recommender system, big data mining); and health computing which explores the application of artificial intelligence in life sciences, biomedical, pharmaceutics, genetic engineering, and precision medicine.",https://air.tsinghua.edu.cn/EN/team-detail.html?id=54&classid=20
+20,Zaiqing Nie,Professor,zaiqing@air.tsinghua.edu.cn,"Big Data, Data Mining, NLP and Multimodal Machine Learning",https://air.tsinghua.edu.cn/EN/team-detail.html?id=35&classid=23
+21,Dan Pei,Associate Professor,peidan@tsinghua.edu.cn,"Data Mining, Autonomous IT Operations, AIOps (Applied Machine Learning for IT Operations)",https://netman.aiops.org/~peidan/
+22,Yuanchun Shi,Professor,shiyc@tsinghua.edu.cn,"Human Computer Interaction, Pervasive computing, Network Multimedia",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224180412120560724/20101224180412120560724_.html
+23,Fuchun Sun,Professor,fcsun@tsinghua.edu.cn,"Active Sensing and Dexterious Operations, Cross Modal Learning",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224193039440369874/20101224193039440369874_.html
+24,Lifeng Sun,Professor,sunlf@tsinghua.edu.cn,Network Multimedia,http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224171601256984835/20101224171601256984835_.html
+25,Maosong Sun,Professor,sms@tsinghua.edu.cn,"Artificial intelligence, deep learning, natural language processing",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224193416561782037/20101224193416561782037_.html
+26,Jie Tang,Professor,jietang@tsinghua.edu.cn,"Social Networking Analysis, Data Mining, Machine Learning",http://keg.cs.tsinghua.edu.cn/jietang/
+27,Yongwei Wu,Professor,wuyw@tsinghua.edu.cn,Parallel and Distributed Computing,http://madsys.cs.tsinghua.edu.cn/~yongweiwu/
+28,Bin Xu,Associate Professor,xubin@tsinghua.edu.cn,"Computer Vision, computational neuroscience, deep learning",http://keg.cs.tsinghua.edu.cn/persons/xubin/
+29,Mingwei Xu,Professor,xumw@tsinghua.edu.cn,"Computer Network, Cybersecurity",http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu
+30,Wenjian Yu,Associate Professor,yu-wj@tsinghua.edu.cn,"Machine Learning, Numerical algorithm, EDA algorithm and software",http://numbda.cs.tsinghua.edu.cn/~yuwj/index_e.htm
+31,Jidong Zhai,Associate Professor,zhaijidong@tsinghua.edu.cn,"High performance computing, Parallel and Distributed Computing, Computer System Software",http://pacman.cs.tsinghua.edu.cn/~zjd/
+32,Songhai Zhang,Associate Professor,shz@tsinghua.edu.cn,"Computer graphics, media computing, Image/Video analysis and processing",http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101225165936235350290/20101225165936235350290_.html
+33,Min Zhang,Associate Professor,z-m@tsinghua.edu.cn,"Information Retrieval, User Behavior Analysis, Machine Learning",http://www.thuir.cn/group/~mzhang/
+34,Fang Zheng,Associate Professor,fzheng@tsinghua.edu.cn,"Speaker Recognition, Speech Recognition",http://cslt.riit.tsinghua.edu.cn/~fzheng/index.htm
+35,Ying Zhao,Associate Professor,yingz@tsinghua.edu.cn,"Data Mining, Machine Learning, Autonomic Computing",https://hpc.cs.tsinghua.edu.cn/research/cluster/zhaoying.html
+36,Jun Zhu,Professor,dcszj@tsinghua.edu.cn,Machine Learning,http://ml.cs.tsinghua.edu.cn/~jun/index.shtml
+37,Yaqin Zhang,Professor,zhangyaqin@air.tsinghua.edu.cn,"Artificial Intelligence, Autonomous Driving, Cloud Computig",https://air.tsinghua.edu.cn/EN/team-detail.html?id=31&classid=20
+38,Yong Zhang,Associate Professor,zhangyong05@tsinghua.edu.cn,"- Database: Column Storage; Row-column Mixed Storage; Key-Value Store; DaaS (Database as a Service); History Database
+- Digital Library/Massive Data Management: Durable Top-k Query; Similarity Calculation; Collaborative Filtering; Micro-blog Recommendation; Tag-basd Resource and Document Recommendation; Hot Stock Block Discovery
+- GIS: Distributed Geography File System; Geograpy Encoding; Geography Data Indexing",http://www.riit.tsinghua.edu.cn/info/Teacher_profile/32075
